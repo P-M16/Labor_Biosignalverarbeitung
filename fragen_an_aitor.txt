@@ -1,1 +1,6 @@
-1. aufgabe 9: es werden keine messungen auf der sd karte aufgezeichnet
+aufgabe 9: es werden keine messungen auf der sd karte aufgezeichnet
+
+aufgabe 7: wie sollen die Daten geplottet werden? ist das Ziel, dass man möglichst guit die Rauschredunzierung sieht oder
+dass die y Achse einheitlcih ist und man wirklich nur einzelne flache Striche sieht im selben Layout wie aus 6 
+
+aufgabe 8: Darstellung ist zwar gefordert, aber es handelt sich hierbei um eine mathematische Operation 
