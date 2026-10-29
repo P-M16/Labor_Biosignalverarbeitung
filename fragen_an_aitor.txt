@@ -1,6 +1,20 @@
 aufgabe 9: es werden keine messungen auf der sd karte aufgezeichnet
 
+------> Funktioniert und Daten sind auf der SD Karte. WICHTIG: Adurino code nehmen für den richtigen Sensor (nicht BSV)
+
+
+
+
 aufgabe 7: wie sollen die Daten geplottet werden? ist das Ziel, dass man möglichst guit die Rauschredunzierung sieht oder
 dass die y Achse einheitlcih ist und man wirklich nur einzelne flache Striche sieht im selben Layout wie aus 6 
 
-aufgabe 8: Darstellung... passt Tabelle???
+------> Sensor innerhalb einer Aufzeichnung in alle Richtungen drehen, sodass ein Stufenähnliches Bild (ein einziger Plot) herauskommt UND 
+darauf den Filter anwenden, damit es möglichst schöne Kästen werden und die unschönen Spannungsspitzen der Drehung glätten 
+
+
+
+
+
+aufgabe 8: Darstellung... passt Tabelle? 
+
+------> Tabelle ist richtig!!!! Einen Satz ergänzen warum 100 Hz 
