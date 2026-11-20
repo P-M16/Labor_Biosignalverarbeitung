@@ -4,3 +4,4 @@ aufgabe 7: wie sollen die Daten geplottet werden? ist das Ziel, dass man möglic
 dass die y Achse einheitlcih ist und man wirklich nur einzelne flache Striche sieht im selben Layout wie aus 6 
 
 aufgabe 8: Darstellung... passt Tabelle???
+Frage an cedi: Hardware aufbau, wie ist der ACC mit dem DataLogger verbunden??
